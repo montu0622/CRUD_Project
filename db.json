@@ -1,0 +1,51 @@
+{
+  "Task-Data": [
+    {
+      "task": "go to gym",
+      "status": "completed",
+      "id": 21
+    },
+    {
+      "task": "buy grocery",
+      "status": "pending",
+      "id": 27
+    },
+    {
+      "task": "cricket bat",
+      "status": "pending",
+      "id": 28
+    }
+  ],
+  "user-Data": [
+    {
+      "fristname": "montu",
+      "lastname": "kumar",
+      "userName": "montu06",
+      "email": "kmontu207@gmail.com",
+      "contact": "7988917376",
+      "password": "12345678",
+      "DOB": "2023-04-27",
+      "id": 1
+    },
+    {
+      "fristname": "rahul",
+      "lastname": "kumar",
+      "userName": "rahul006",
+      "email": "kmontu207@gmail.com",
+      "contact": "7988917376",
+      "password": "12345678",
+      "DOB": "2023-04-27",
+      "id": 2
+    },
+    {
+      "fristname": "montu",
+      "lastname": "kumar",
+      "userName": "montu06",
+      "email": "kmontu207@gmail.com",
+      "contact": "7988917376",
+      "password": "montu kumar",
+      "DOB": "2023-04-28",
+      "id": 3
+    }
+  ]
+}
